@@ -1,0 +1,10 @@
+#drum-machine {
+  padding: 0 12px;
+  padding-top: 12px;
+}
+
+.drum-pad {
+  min-height: 80px;
+  margin-bottom: 12px;
+  margin-right: 12px;
+}
